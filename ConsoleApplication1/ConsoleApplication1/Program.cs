@@ -8,6 +8,7 @@ namespace ConsoleApplication1
 {
     class Program
     {
+        //my main method for helping me
         static void Main(string[] args)
         {
             Console.Write("In the new solution");
